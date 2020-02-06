@@ -315,7 +315,7 @@ def destruir():
 
 
 
-	print("El proyecto ha sido destruido por Jorge y Mario!! ;)")
+	print("El proyecto ha sido destruido")
 
 
 def arrancar():
